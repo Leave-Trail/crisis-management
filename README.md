@@ -1,0 +1,2 @@
+# crisis-management
+The aim of this project is to create a tool that will facilitate the organization of cooperation between non-governmental organizations and volunteers who want to engage in minimizing losses caused by the crisis by redirecting human and material resources to where they are most needed. The created tool will be able to be used for problem-solving by society and will enable better tools for communication and cooperation between societies.
