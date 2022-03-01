@@ -319,3 +319,6 @@ Proste i ogólnie znane technologie aby umożliwić jak największej liczbie os�
 
 ### Dodaj wymaganie
 <https://docs.google.com/forms/d/e/1FAIpQLSfNYr9LXmHpU0zfj9Rba23GcD_DGOZM6Yb0zg9R_yabUosAxQ/viewform?usp=sf_link>
+
+### Dodaj gwiazdkę.
+Jeżeli uważasz, że jest to wartościowy projekt i warto go kontunuować dodaj gwiazdkę na github.
