@@ -30,12 +30,31 @@ Określenie liczby sztuk danego zasobu w lokalizacji.
 
 
 
-### Iteracja 3. Zlecenie transportu.
+### Iteracja 3. Stany magazynowe
+ W poprzedniej Iteracji zidentyfikowaliśmy obiekt zasobu lecz zdefiniowaliśmy tylko podstawowy mało precyzyjny współczynnik zapotrzebowania lub nadmiaru danego zasobu w lokalizacji. W obecnej iteracji dodamy stany magazynowe które określają ilość danego zasobu w lokalizacji. Na potrzeby raportowania utworzymy także tabelę historyczną która będzie pokazywała zmiany stanu magazynowego w czasie. Zdefiniujemy także obiekty Dodania na magazyn i zdjęcia z magazynu wraz z różnymi statusami jak wydanie produktu transport do innej lokalizacji, dodanie produktu.
 
-* Jako wolontariusz chcę mieć możliwość obsługi przyjęcia zasobów na stan. To znaczy w danej lokalizacji określony jest stan danego zasobu. Mamy obiekt dostawa lub wydanie w której określamy ile sztuk danego zasobu doszłu lub ubyło. Dodatkowo określone są metadane. Kto dostarczył lub odebrał produkt.
+* Jako Operator chcę mieć możliwość obsługi przyjęcia zasobów na stan. To znaczy w danej lokalizacji określony jest stan danego zasobu. Mamy obiekt dostawa lub wydanie w której określamy ile sztuk danego zasobu doszło lub ubyło. Dodatkowo określone są metadane. Kto dostarczył lub odebrał produkt
 
-### Iteracja 4. Kalendarze dyżurów podpięte pod lokalizację.
+### Iteracja 4. Zlecenie transportu.
+Poprzednie etapy przyniosły dużo wartości dodanej. Jednym rzutem oka na mapę można stwierdzić gdzie potrzebna jest pomoc, gdzie są nadmiary jakiegoś rodzaju rzeczy. Dzięki temu Uciekinierzy mogą łatwo dotrzeć do punktów pomocy a Wolontariusze w bardziej uporządkowany sposób mogą kierować swoją pomoc. Jednak nie jest jeszcze rozwiązany problem konkurowania o pewne miejsca. Co jeżeli w jednym momencie wielu kierowców spojrzy na mapę i sprawdzi, że na przejściu granicznym A oczekuje duża liczba uciekinierów. Może okazać się, że wszyscy pojadą w jedno miejsce i spowodują korek.
+Drugi problem polega na tym, że osoby oczekujące na pomoc muszą zostać przetransportowana w zupełnie inne miejsca.
+Odpowiedzią na te problemy jest zlecenie transportu zasobu z jednej lokalizacji w inną.
+Kto miałby tworzyć takie zlecenia transportu. W obecnej iteracji nie mamy jeszcze odpowiedniej struktury. Nie możemy dopuścić wszystkich użytkowników do tworzenia zleceń transportu gdyż mogłoby spowodować to zamęt. W kolejnym etapie tworzymy odpowiednią strukturę organizacyjną która będzie mogła tworzyć role operatorów. Obecnie ograniczymy się do roli operatora która jest zdefiniowana na poziomie całej aplikacji.
 
-### Iteracja 5 Baza wiedzy.
+* Jako Operator chcę mieć możliwość zdefiniowania zlecenia transportu przez wybranie zasobów wraz z określeniem ich ilości z danej lokalizacji pomocy humanitarnej a następnie w aplikacji web przeciągnięcia strzałki z jednego punktu do drugiego na mapie a, w aplikacji mobilnej wybranie punktu docelowego z mapy.
+* Jako Operator chcę mieć możliwość zdefiniowania jaki typ transportu jest potrzebny do wykonania danego zlecenia transportu. Czy ma być to samochód osobowy autobus bus, tir, samolot pociąg czy inne.
+* Zlecenia transportu trafiają do kolejki zleceń transportu .
+* Jako Wolontariusz chcę mieć możliwość przeglądania zleceń transportu w postaci listy z możliwością filtrowania lokalizacji tak by móc wybrać transport najbardziej dogodny dla mnie.
+* Do przedyskutowania kwestie wiarygodności. (Kiedy zdejmować zlecenie transportu z kolejki) Czy kiedy zostanie zrealizowane czy pobrane. 
+* Do przemyślenia także kwestie weryfikacji kierowców. Prestiż, Wiarygodność, Ocena kierowcy. 
+* Co w przypadku gdy transport nie dotrze.
+* Pojawiały się już kwestie uprowadzeń lub wymuszeń i kradzieży.
 
-### Iteracja 6. Organizacje
+
+### Iteracja 5. Organizacje
+Organizacje zrzeszają ludzi wokół świadczenia jakiejś formy działania. Potrzebujemy wprowadzenia obiektu organizacji przed kolejnymi etapami aby umożliwić pewną ustrukturalizowaną formę zarządzania. Niektóre czynności mogą być wykonywane spontanicznie przez wolontariuszy lecz inne wymagają planowania i koordynacji. Definiowanie dyżurów, organizacja transportu. Do pomocy mogą włączać się już istniejące organizacje z własną strukturą. Musimy dać możliwość rejestracji tych organizacji w aplikacji udostępnienie swojego profilu działania a także powiązania ich z istniejącymi stronami www. Telefonami i innymi informacjami teleadresowymi.
+
+
+### Iteracja 6. Kalendarze dyżurów podpięte pod lokalizację.
+
+### Iteracja 7. Baza wiedzy.
