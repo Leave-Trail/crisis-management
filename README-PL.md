@@ -2,18 +2,20 @@
 
 Jest to opis aplikacji która może być wykorzystana przez społeczność w trakcie kryzysowych sytuacji do zarządzania zasobami materiałowymi i ludzkimi. Aplikacja jest narzędziem wykorzystywanym przez obywateli do samodzielnego rozwiązywania problemów społecznych.
 
+
 ## ***Motywacja***
-W ostatnim tygodniu mamy doczyniania z wielką mobilizacją wolontariuszy oraz darczyńców spowodowaną Kryzysem społecznym wywołanym konfliktem na Ukrainie.
+W ostatnim tygodniu mamy do czynienia z wielką mobilizacją wolontariuszy oraz darczyńców spowodowaną Kryzysem społecznym wywołanym konfliktem na Ukrainie.
 
-Społeczeństwo polskie zdało egzamin gdyż w pełni zaanagażowało się w pomoc uciekającym Imigrantom Wojennym z ukrainy.
+Społeczeństwo polskie zdało egzamin gdyż w pełni zaangażowało się w pomoc uciekającym Imigrantom Wojennym z ukrainy.
 
-Ilość darów oraz zaangażowania przekroczyła bierzące potrzeby jednak brak odpowiedniego zarządzania kryzysowego spowodowała pewne zamieszanie z przekierowaniem pomocy w odpowiednie lokalizacje.
+Ilość darów oraz zaangażowania przekroczyła bieżące potrzeby jednak brak odpowiedniego zarządzania kryzysowego spowodowała pewne zamieszanie z przekierowaniem pomocy w odpowiednie lokalizacje.
 
 Magazyny pękają z powodu dostaw darów dla Ukraińców trudno jest stwierdzić jakie dobra są potrzebne , gdzie obecnie znajdują się uchodźcy jakie formy pomocy są aktualnie potrzebne.
 
 Sytuacja ta powoduje nawet pewnego rodzaju niedogodności gdyż zbyt duże zgromadzenie kierowców chcących pomóc w transporcie uciekinierów spowodowała zatrzymanie ruchu.
 
 Pomimo tych niedogodności ludzie świetnie się organizują z wykorzystaniem mediów społecznościowych oraz przekazując sobie informacje przez internet.
+
 
 <https://oko.press/apel-organizacji-pomocowych-z-granicy-nie-przyjezdzajcie-na-granice-nie-przywozcie-darow/>
 
@@ -24,14 +26,14 @@ Pomimo tych niedogodności ludzie świetnie się organizują z wykorzystaniem me
 <https://www.medonet.pl/zdrowie/wiadomosci,dramatyczna-sytuacja-szpitali-w-ukrainie---pilnie-potrzebna-pomoc,artykul,53724686.html>
 
 ## ***Cel***
-Celem tego projektu jest stworzenie narzędzia, które ułatwi organizację współpracy organizacji pozarządowych oraz wolontariuszy chcących zaangażować się w minimalizowania strat spowodowancych kryzysem dzięki przekierowaniu zasobów ludzkich i materiałowych tam gdzie są one najbardziej potrzebne.
+Celem tego projektu jest stworzenie narzędzia, które ułatwi organizację współpracy organizacji pozarządowych oraz wolontariuszy chcących zaangażować się w minimalizowania strat spowodowanych kryzysem dzięki przekierowaniu zasobów ludzkich i materiałowych tam gdzie są one najbardziej potrzebne.
 
-Stworzone narzędzie będzie mogło być wykorzystywane do rozwiązywania problemów przez społeczeństwo i będzie umożliwiać lepszee narzędzia komunikacji i współpracy społeczeńtw.
+Stworzone narzędzie będzie mogło być wykorzystywane do rozwiązywania problemów przez społeczeństwo i będzie umożliwiać lepsze narzędzia komunikacji i współpracy społeczeństw.
 
 ## ***Uwarunkowania***
-Społeczeństwo Polskie wielokrotnie wykazało swoją gotowość i aktywność w rozwiązywaniu różnego rodzaju sytuacji kryzysowych wyjazując w tym jednocześnie niezwykłą skuteczność. Współpraca organizacji pozarządowych lokalnych samorządów oraz wolontariuszy dowodzi, że ten rodzaj oraganizacji oraz aktywizacji społecznej jest niezwykle skuteczny oraz stosowany co niesie ze sobą duże prawdopodobieństwo, że narzędzie do zarządzania kryzysowego jest potrzebne i będzie wykorzystywane do rozwiązywania różnego rodzaju społecznych problemów.
+Społeczeństwo Polskie wielokrotnie wykazało swoją gotowość i aktywność w rozwiązywaniu różnego rodzaju sytuacji kryzysowych wykazując w tym jednocześnie niezwykłą skuteczność. Współpraca organizacji pozarządowych lokalnych samorządów oraz wolontariuszy dowodzi, że ten rodzaj organizacji oraz aktywizacji społecznej jest niezwykle skuteczny oraz stosowany co niesie ze sobą duże prawdopodobieństwo, że narzędzie do zarządzania kryzysowego jest potrzebne i będzie wykorzystywane do rozwiązywania różnego rodzaju społecznych problemów.
 
-Istnieje już wiele metod współpracy oraz narzędzi do tego celu wykorzystywanch. Celem projektu nie jest zastąpienie tych narzędzie lecz uzupełnienie oraz powiązanie w bardziej holistyczną strukturę.
+Istnieje już wiele metod współpracy oraz narzędzi do tego celu wykorzystywanych. Celem projektu nie jest zastąpienie tych narzędzie lecz uzupełnienie oraz powiązanie w bardziej holistyczną strukturę.
 
 ## ***Narzędzia***
 Komunikacja
@@ -40,13 +42,13 @@ Komunikacja
 
 Kanały te dodatkowo są wspierana platformami internetowymi agregującymi informację na temat organizacji zajmujących się pomocą.
 
-**Facebook** – jako narzędzie też jest także dobrym źródłem informacji ale umożliwia także współpracę wolontariuszy na niższym poziomie bez konieczności komunikacji z telewizją i radiem przez co stały się doskonałym narzędziem do koordynowania poszczególnych grup zadaniowych bez konieczności informowania szerokiej grupy społecznej.
+**Facebook** –  jako narzędzie też jest także dobrym źródłem informacji ale umożliwia także współpracę wolontariuszy na niższym poziomie bez konieczności komunikacji z telewizją i radiem przez co stały się doskonałym narzędziem do koordynowania poszczególnych grup zadaniowych bez konieczności informowania szerokiej grupy społecznej.
 
-Twitter – ze względu na swoją formę kiepsko nadaje się do koordynacji działań jednak jest wykorzystywany do publikowania różnych informacji na przykład z pola walki.
+**Twitter** – ze względu na swoją formę kiepsko nadaje się do koordynacji działań jednak jest wykorzystywany do publikowania różnych informacji na przykład z pola walki.
 
 **Messenger** – umożliwia komunikację poszczególnych osób.
 
-**Portale zrzutkowe** – istnieje kilka portali zrzutkowych wykorzystywanch do zbierania funduszy na realizację poszczególnych projektów. Moje osobiste wrażenie jest takie, że brak jest informacji na temat w jaki sposób wykorzystywane są zebrane fundusze oraz brak jest przejrzystości czy fundusze zostały wykorzystane w odpowiedni sposób. Przez co zrzutki te są podatne na nadurzycia i mogą być wykorzystywane przez różnego rodzaju oszustów.
+**Portale zrzutkowe** – istnieje kilka portali zrzutowych wykorzystywanych do zbierania funduszy na realizację poszczególnych projektów. Moje osobiste wrażenie jest takie, że brak jest informacji na temat w jaki sposób wykorzystywane są zebrane fundusze oraz brak jest przejrzystości czy fundusze zostały wykorzystane w odpowiedni sposób. Przez co zrzutki te są podatne na nadużycia i mogą być wykorzystywane przez różnego rodzaju oszustów.
 
 (Znamienitym przykładem jest zrzutka która została przeprowadzano po wypadku prywatnego samochodu z kolumną rządową. Pieniądze które miały zostać przekazane na zakup nowego samochodu poszkodowanej osoby nigdy nie zostały tej osobie przekazane a organizator zrzutki zdefraudował całą kwotę)
 
@@ -61,34 +63,25 @@ Twitter – ze względu na swoją formę kiepsko nadaje się do koordynacji dzia
 [https://pomagamukrainie.gov.pl](https://pomagamukrainie.gov.pl/#section5)
 
 ## ***Metody współpracy***
-W biezącej sytuacji kryzysowej nawiązała się swoista współraca publiczno prywatna. W pomoc zangażowały się zarówno organizacje jak i osoby prywatne.
-
-Administracja lokalna
-
-Organizacje pozarządowe
-
-Firmy i osoby prywatne.
-
-Polskie Koleje Państwowe
-
-Administracja Centralna.
+W bieżącej sytuacji kryzysowej nawiązała się swoista współpraca publiczno prywatna. W pomoc zaangażowały się zarówno organizacje jak i osoby prywatne.
+* Administracja lokalna
+* Organizacje pozarządowe
+* Firmy i osoby prywatne.
+* Polskie Koleje Państwowe
+* Administracja Centralna.
 
 Metody pomocy Studium przypadku.
+* Pomoc Prawna.
+* Zrzutki pieniężne.
+* Zbiórki jedzenia, odzieży, pościeli, koców itp.
+* Wolontariat (Kompletowanie i dostarczanie paczek.)
+* Transport osób.
 
-Pomoc Prawna.
-
-Zrzutki pieniężne.
-
-Zbiórki jedzenia, odzieży, pościeli, koców itp.
-
-Wolontariat (Kompletowanie i dostarczanie paczek.)
-
-Transport osób.
 
 ## ***Wnioski.***
 Istnieje wiele rozproszonych źródeł informacji na temat prowadzonych działań.
 
-Część informacji jest agregowana przez portale Radia (TokFM) oraz Telewizji.
+Część informacji jest zagregowana przez portale Radia (TokFM) oraz Telewizji.
 
 Istnieje wiele narzędzi komunikacji oraz narzędzi wykorzystywanych do poszczególnych działań jak zrzutki pieniędzy.
 
@@ -98,7 +91,7 @@ Brak mechanizmów przekierowywania zaangażowania.
 
 Brak możliwości publikowania niektórych informacji.
 
-Sytuacja jest zmienna a informacja rozproszona przez co ciężko nadążyć za bierzącymi potrzebami.
+Sytuacja jest zmienna a informacja rozproszona przez co ciężko nadążyć za bieżącymi potrzebami.
 
 
 ## ***Funkcjonalności.***
@@ -114,13 +107,14 @@ Obecnie organizacje publikują informacje na swoich profilach w mediach społecz
 - **Publikowanie wyników projektów. (niski)**
 - **Dodanie informacji geograficznej.**
 
-Pomoc wymaga często wymaga fizycznego kontaktu dlatego musi być zlokalizowana w konretnym miejscu geograficznie. Pomoc prawna , zbiórki rzywności , zbiórki produktów, dostarczanie produktów rzywności koców jest realizowana w konkretnych miejscach.
+Pomoc wymaga często wymaga fizycznego kontaktu dlatego musi być zlokalizowana w konkretnym miejscu geograficznie. Pomoc prawna , zbiórki żywności , zbiórki produktów, dostarczanie produktów żywności koców jest realizowana w konkretnych miejscach.
 
 - **Dodanie kalendarzy dyżurów.**
 
 Chodzi o to by zorientować się w którym miejscu i w jakiej godzinie będą potrzebni wolontariusze.
 
-Organizacja w lokalizacji może opublikować zapotrzebowanie na liczbę osób z konkretnymi umijętnościami( np znajomość języka, lub prawo jazdy) Wolontariusze mogą zgłaszać się do danego miejsca dzięki kalendarzowi dyżurów można monitorować czy w danej lokalizacji potrzebna jest jeszcze jakaś liczba osób dyżurujących.
+Organizacja w lokalizacji może opublikować zapotrzebowanie na liczbę osób z konkretnymi umiejętnościami( np znajomość języka, lub prawo jazdy) Wolontariusze mogą zgłaszać się do danego miejsca dzięki kalendarzowi dyżurów można monitorować czy w danej lokalizacji potrzebna jest jeszcze jakaś liczba osób dyżurujących.
+
 
 - **Dodanie stanów magazynowych.**
 - **Dodanie potrzeb.**
